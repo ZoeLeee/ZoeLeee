@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/ZoeLeee/count.svg)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoeLeee)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoeLeee&theme=tokyonightlayout=compact&theme=tokyonight&hide=html,css,Java,Less&size_weight=0.5&count_weight=1)
@@ -41,3 +39,6 @@ Here are some ideas to get you started:
 ### ☕ Get In Touch
 - [Personal Site](https://www.dodream.cn)
 - [JueJin](https://juejin.cn/user/3474112473216174)
+
+
+![Visitor Count](https://profile-counter.glitch.me/ZoeLeee/count.svg)
