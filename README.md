@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 
 ###  About me
 
-- 8 years of experience in frontend development using TypeScript, Three.js, Babylon.js, React.js, Konva.js, and MobX.
+- 8 years of experience in frontend development using TypeScript, Three.js, Babylon.js, React.js, Konva.js.
 - 7 years of experience in developing 2D and 3D visualization editor software.
 - 1 year of experience in RPA editor development with a deep understanding of RPA technologies.
 - Proficient in unit testing to ensure code quality and stability.
 - Knowledgeable in cross-platform development with React Native and Electron.
-- Familiar with backend technologies such as WebGL, Node.js, and MongoDB.
+- Familiar with backend technologies such as Go, Node.js,Nest.js and MongoDB.
 - Skilled in build tools like Webpack and Vite for efficient project management.
 - Experienced in developing WeChat and Alipay mini-programs.
 - Proven ability to handle complex project requirements and technical challenges in large-scale projects.
 - Capable of managing projects from inception to completion independently.
-- Experienced in team leadership and project management.
 
 
 
