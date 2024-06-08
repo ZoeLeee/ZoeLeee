@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ### ☕ Get In Touch
 - [Personal Site](https://www.dodream.cn)
 - [JueJin](https://juejin.cn/user/3474112473216174)
+- <a href="zoolee1021@163.com">zoolee1021@163.com</a>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/ZoeLeee/count.svg)
