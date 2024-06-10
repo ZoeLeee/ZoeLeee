@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - Knowledgeable in cross-platform development with React Native and Electron.
 - Familiar with backend technologies such as Go, Node.js,Nest.js and MongoDB.
 - Skilled in build tools like Webpack and Vite for efficient project management.
-- Experienced in developing WeChat and Alipay mini-programs.
 - Proven ability to handle complex project requirements and technical challenges in large-scale projects.
 - Capable of managing projects from inception to completion independently.
 
