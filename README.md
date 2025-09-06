@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  About me
+###  About me 
 
 - 8 years of experience in frontend development using TypeScript, Three.js, Babylon.js, React.js, Konva.js.
 - 7 years of experience in developing 2D and 3D visualization editor software.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Proven ability to handle complex project requirements and technical challenges in large-scale projects.
 - Capable of managing projects from inception to completion independently.
 
-
+![](https://komarev.com/ghpvc/?username=zoeleee)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoeLeee)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,6 +38,3 @@ Here are some ideas to get you started:
 - [Personal Site](https://www.dodream.cn)
 - [JueJin](https://juejin.cn/user/3474112473216174)
 - <a href="zoolee1021@163.com">zoolee1021@163.com</a>
-
-
-![Visitor Count](https://profile-counter.glitch.me/ZoeLeee/count.svg)
